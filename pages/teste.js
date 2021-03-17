@@ -1,5 +1,5 @@
 function About() {
-  return <div>About</div>
+  return <div>Miguel</div>
 }
-teste123
+
 export default About
