@@ -1,5 +1,5 @@
-function teste() {
+function teste123() {
   return <div>Miguel</div>
 }
 
-export default teste
+export default teste123
